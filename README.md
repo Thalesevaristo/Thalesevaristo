@@ -1,7 +1,6 @@
-### Hi there 👋
-
 <!--
-**Thalesevaristo/Thalesevaristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Thales-Evaristo/Thales-Evaristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+###  🙋🏽‍♂️ Olá, meu nome é Thales
+
+-  **👨🏼‍🎓 Estudante de Engenharia da Computação**  
+- **👀 Possuo interesses na área de Robótica**
+- **🌱 Estou aprendendo Dart e Rust**
+- **👨🏽‍💻 Programo em C, C++, Java e Kotlin** 
