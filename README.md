@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 -->
 
-###  🙋🏽‍♂️ Olá, meu nome é Thales
+### Olá, meu nome é Thales
 
 -  **👨🏼‍🎓 Estudante de Engenharia da Computação**  
 - **👀 Possuo interesses na área de Robótica**
