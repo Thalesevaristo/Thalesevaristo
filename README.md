@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ### Olá, meu nome é Thales
 
 -  **👨🏼‍🎓 Estudante de Engenharia da Computação**  
-- **👀 Possuo interesses na área de Robótica**
-- **🌱 Estou aprendendo Dart e Rust**
-- **👨🏽‍💻 Programo em C, C++, Java e Kotlin** 
+- **👀 Possuo interesses nas áreas de Ciência de Dados, Visão computacional, Robótica e Internet das Coisas (IoT)**
+- **🌱 Estou aprendendo Go**
+- **👨🏽‍💻 Programo em C, C++, Java e Python** 
